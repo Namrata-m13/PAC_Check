@@ -9,7 +9,7 @@ var build1 = process.env.BROWSERSTACK_BUILD
 // Input capabilities
 var capabilities = {
 "browserstack.local": browserstackLocal,
- "browserstack.localIdentifier": browserstackLocalIdentifier,
+
 "browserName" : "Chrome", 
 "browserVersion" : "70.0", 
 //  "build":"AM_Check1",
